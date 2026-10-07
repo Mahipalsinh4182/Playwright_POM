@@ -1,0 +1,8 @@
+[
+  { "username": "standard_user", "type": "valid" },
+  { "username": "locked_out_user", "type": "locked" },
+  { "username": "problem_user", "type": "valid" },
+  { "username": "performance_glitch_user", "type": "valid" },
+  { "username": "error_user", "type": "valid" },
+  { "username": "visual_user", "type": "valid" }
+]
